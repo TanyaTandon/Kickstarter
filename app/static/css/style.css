@@ -1,0 +1,98 @@
+/* resetting browser stuff */
+*     {
+  box-sizing: border-box;
+}
+html,
+body   {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+/* styling our overall page */
+body     {
+  background: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* styling our main content */
+.hero           {
+  min-height: 800px;
+  text-align: center;
+  background-image: url('../img/sky.jpg');
+  background-size: cover;
+}
+.hero-content   {
+  color: #FFF;
+  padding-top: 130px;
+}
+.hero-content h1   {
+  font-size: 100px;
+  margin: 0;
+}
+.hero-content p    {
+  font-size: 25px;
+}
+.hero-content a    {
+  display: inline-block;
+  color: #FFF;
+  border: 3px solid #FFF;
+  border-radius: 3px;
+  padding: 15px 30px;
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 27px;
+}
+
+.hero-content { font-family: Arial; }
+
+/* Prediction */
+.final          {
+  min-height: 800px;
+  text-align: center;
+  background-size: cover;
+}
+.final-content   {
+  color: #FFF;
+  padding-top: 130px;
+}
+.final-content h1   {
+  font-size: 100px;
+  margin: 0;
+}
+.final-content p    {
+  font-size: 25px;
+}
+.final-content a    {
+  display: inline-block;
+  color: #FFF;
+  border: 3px solid #FFF;
+  border-radius: 3px;
+  padding: 15px 30px;
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 27px;
+}
+
+.final-content { font-family: Arial; }
+
+/* basic site sections */
+
+.myForm
+{  
+ margin-top: 50px;
+background-color: #ffffff;
+margin-left: 50px; 
+
+  
+}
+
+.heading
+{
+background-color: #00BA6F;
+margin-top: 10px;
+margin-left: 50px; 
+
+}   
