@@ -1,5 +1,3 @@
-Mid point review
-
 Project Owner: Tanya Tandon 
 QA Owner: Saurabh Annadate
 # Dear Genie - Kickstarter
